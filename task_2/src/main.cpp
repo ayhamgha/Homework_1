@@ -13,7 +13,7 @@ int main()
 {
   cout << "The sum is "
        << " = " << MySum(1.0, 1.0) << endl
-       << "The sub is" << MySubtract(1.0, 1.0) << endl;
+       << "The sub is " << MySubtract(1.0, 1.0) << endl;
 
   return 0;
 }
