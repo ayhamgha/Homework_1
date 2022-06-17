@@ -7,7 +7,7 @@
 
 /**
  * @brief This is an awesome function that will perform the sum of to elements
- *
+ * 
  * @param x It's the first element to be subtracted.
  * @param y It's the other element to be subtracted.
  * @return float The subtraction of the two input parameters, x and y.
